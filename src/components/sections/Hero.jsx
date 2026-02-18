@@ -29,11 +29,10 @@ const Hero = () => {
                         <div className="text-2xl md:text-4xl font-bold text-slate-600 dark:text-slate-300 mb-6 h-20 md:h-24 flex items-center justify-center">
                             <TypeAnimation
                                 sequence={[
-                                    'Frontend Developer',
+                                    'MERN Stack Developer',
                                     2000,
                                     'React Specialist',
-                                    2000,
-                                    'Full Stack Developer',
+                                
                                     2000,
                                     'Devops Engineer',
                                     2000,

@@ -31,7 +31,7 @@ const Skills = () => {
             skills: [
                 { name: "Git", icon: <FaGitAlt className="text-red-500" />, level: 40 },
                 { name: "Docker", icon: <SiDocker className="text-blue-500" />, level: 50 },
-                { name: "Linu", icon: <FcLinux className="text-purple-500" />, level: 50 },
+                { name: "Linux", icon: <FcLinux className="text-purple-500" />, level: 50 },
             ]
         }
     ];
