@@ -1,16 +1,62 @@
-# React + Vite
+# 💼 Muhammad Nadeem — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive personal portfolio built with **React.js** featuring 
+Dark/Light mode, smooth animations, and a complete showcase of my skills and projects.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://my-portfolio-eta-green-41.vercel.app](https://my-portfolio-eta-green-41.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🌙 Dark / Light Mode toggle
+- 📱 Fully Responsive Design
+- 🚀 Smooth animations and transitions
+- 📁 Projects section with category filters (Frontend / Full Stack)
+- 🛠️ Skills section with progress bars
+- 📅 Experience & Timeline section
+- 📫 Contact section
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS, TypeScript  
+**Backend:** Node.js, MongoDB  
+**DevOps:** Git, Docker, Linux  
+**Deployed on:** Vercel
+
+---
+
+## 📂 Projects Showcased
+
+| Project | Type | Description |
+|---|---|---|
+| 🏨 Hostel Management | Full Stack | Smart web app for managing hostel rooms |
+| 💊 Pharmacy Management | Frontend | Web app for managing medicines & sales |
+| ✅ Todo App | Frontend | Productivity app for daily task management |
+
+---
+
+## 🚀 Run Locally
+```bash
+git clone https://github.com/Nadeem4054/MY-PORTFOLIO.git
+cd MY-PORTFOLIO
+npm install
+npm start
+```
+
+---
+
+## 👨‍💻 About Me
+
+I am **Muhammad Nadeem**, a MERN Stack Developer and Aspiring DevOps Engineer from Pakistan.  
+I build pixel-perfect, engaging, and accessible digital experiences.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Nadeem4054)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/muhammad-nadeem-358186330)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel)](https://my-portfolio-eta-green-41.vercel.app)
+
+---
+
+⭐ If you like this project, please give it a star!
